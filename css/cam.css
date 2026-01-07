@@ -1,0 +1,464 @@
+.cloud1{
+    position:absolute;
+    animation: animate1 4s linear infinite;
+}
+@keyframes animate1{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud2{
+    position:absolute;
+    animation: animate2 8s linear infinite;
+}
+@keyframes animate2{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud3{
+    position:absolute;
+    animation: animate3 3.5s linear infinite;
+}
+@keyframes animate3{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud4{
+    position:absolute;
+    animation: animate4 9.5s linear infinite;
+}
+@keyframes animate4{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud5{
+    position:absolute;
+    animation: animate5 5s linear infinite;
+}
+@keyframes animate5{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud6{
+    position:absolute;
+    animation: animate6 4s linear infinite;
+}
+@keyframes animate6{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud7{
+    position:absolute;
+    animation: animate7 8s linear infinite;
+}
+@keyframes animate7{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud8{
+    position:absolute;
+    animation: animate8 3.5s linear infinite;
+}
+@keyframes animate8{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud9{
+    position:absolute;
+    animation: animate9 9.5s linear infinite;
+}
+@keyframes animate9{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud10{
+    position:absolute;
+    animation: animate10 5s linear infinite;
+}
+@keyframes animate10{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud11{
+    position:absolute;
+    animation: animate11 4s linear infinite;
+}
+@keyframes animate11{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud12{
+    position:absolute;
+    animation: animate12 8s linear infinite;
+}
+@keyframes animate12{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud13{
+    position:absolute;
+    animation: animate13 3.5s linear infinite;
+}
+@keyframes animate13{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud14{
+    position:absolute;
+    animation: animate14 9.5s linear infinite;
+}
+@keyframes animate14{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud15{
+    position:absolute;
+    animation: animate15 5s linear infinite;
+}
+@keyframes animate15{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud16{
+    position:absolute;
+    animation: animate16 4s linear infinite;
+}
+@keyframes animate16{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud17{
+    position:absolute;
+    animation: animate17 8s linear infinite;
+}
+@keyframes animate17{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud18{
+    position:absolute;
+    animation: animate18 3.5s linear infinite;
+}
+@keyframes animate18{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud19{
+    position:absolute;
+    animation: animate19 9.5s linear infinite;
+}
+@keyframes animate19{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud20{
+    position:absolute;
+    animation: animate10 5s linear infinite;
+}
+@keyframes animate20{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+.cloud21{
+    position:absolute;
+    animation: animate21 4s linear infinite;
+}
+@keyframes animate21{
+    0%
+    {
+        transform: translateY(0) scaleY(1);
+    }
+    70%
+    {
+        transform: translateY(360px) scaleY(1);
+    }
+    80%
+    {
+        transform: translateY(360px) scaleY(0.2);
+    }
+    100%
+    {
+        transform: translateY(360px) scaleY(0) scaleY(15);
+    }
+}
+
+
